@@ -1,0 +1,80 @@
+body{
+	margin: 0px;
+	background-color: #F5F5F4;
+}
+
+.site-banner{
+	border-top: 2px solid black;
+	border-bottom: 4px solid black;
+	text-align: center;
+	background-color: #F5F5F4;
+	padding: 15px;
+}
+
+#logo{
+	width: 230px;
+}
+
+.article{
+	max-width: 900px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.article-header{
+	font-family: "Oswald", sans-serif;
+	font-size: 20px;
+}
+
+.byline{
+	font-family: "Oswald", sans-serif;
+	font-size: 15px;
+}
+
+.story-body{
+	font-family: "Georgia", serif;
+	font-size: 20px;
+}
+
+.photo{
+	width: 100%;
+}
+
+.photo-caption{
+	color: gray;
+	font-size: 14px;
+	margin-top: 0px;
+}
+
+.visualization{
+	width: 100%;
+}
+
+
+.footer{
+	font-family: "Oswald", sans-serif;
+	margin-top: 30px;
+	font-size: 15px;
+}
+
+.footer h3{
+	color: #0F428A;
+}
+
+.footer-info{
+	color: gray;
+	font-size: 14px;
+}
+
+.footer-links a{
+	color: black;
+}
+
+a {
+	color: #0F428A;
+}
+
+a:hover{
+	color: #D53F3A;
+	text-decoration-color: gray;
+}
