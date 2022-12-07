@@ -16,9 +16,9 @@ body{
 }
 
 .article{
-	max-width: 900px;
-	margin-left: 5%;
-	margin-right: 5%;
+	max-width: 100%;
+	margin-left: 15%;
+	margin-right: 15%;
 }
 
 .article-header{
@@ -47,7 +47,7 @@ body{
 }
 
 .visualization{
-	width: 100%;
+	max-width: 100%;
 }
 
 
